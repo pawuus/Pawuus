@@ -1,0 +1,39 @@
+
+a {
+    font-style: italic;
+}
+
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #000;
+}
+
+.skill {
+    background-color: #000;
+}
+
+span {
+    color: rgb(217, 181, 250);
+    font-family: sans-serif;
+    font-size: 1.3rem;
+}
+
+#contact {
+    background-color: #000;
+}
+
+.jumbotron {
+    background-image: url('projects/gabriel-dizzi-WPXxp36tkHQ-unsplash.jpg');
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.paus {
+    padding-bottom: 3px;
+}
+
+.p {
+    margin-right: 3px;
+}
